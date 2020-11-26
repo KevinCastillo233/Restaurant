@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\bin\Debug\PruebaVisorWeb.exe.config
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\bin\Debug\PruebaVisorWeb.exe
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\bin\Debug\PruebaVisorWeb.pdb
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\obj\Debug\PruebaVisorWeb.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\obj\Debug\PruebaVisorWeb.Form1.resources
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\obj\Debug\PruebaVisorWeb.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\obj\Debug\PruebaVisorWeb.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\obj\Debug\PruebaVisorWeb.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\obj\Debug\PruebaVisorWeb.exe
+C:\Users\USUARIO\source\repos\PruebaVisorWeb\obj\Debug\PruebaVisorWeb.pdb
